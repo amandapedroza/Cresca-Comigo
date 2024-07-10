@@ -1,1 +1,1 @@
-![Logo do prejoto](URL_da_Imagem) Cresça Comigo
+![Logo do prejoto](https://flic.kr/p/2q3nuFc) Cresça Comigo
