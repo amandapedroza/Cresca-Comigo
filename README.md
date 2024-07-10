@@ -22,9 +22,6 @@ Estudos prévios sugerem que a qualidade do sono e a hora irregular de dormir da
 Na categoria _crescimento_ é feito o registro do peso e altura da criança. É fundamental acompanhar de forma periódica, pois são dois indicadores centrais na atenção da saúde mas, principalmente, contribui para que elas possam atingir todo o seu potencial de crescimento e desenvolvimento. 
 
 
-### Ferramentas utilizadas
-
-
 ### Iniciando o App
 Para rodar a api:
 ``` 
